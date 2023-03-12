@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: #0e1014;
+  position: relative;
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  overflow: hidden;
+}
+
+.App__container {
+  max-width: 1160px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+  padding-top: 46px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  padding-bottom: 20px;
+}
+
+.test {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  background: linear-gradient(92deg, #fcb045 27.14%, #ff3f78 121.36%), #e4e5ea;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0b2349;
+  display: table;
+}
+
+@media (max-width: 1111px) {
+  .App__container {
+    max-width: 320px;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
