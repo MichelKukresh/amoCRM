@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.63e0a7e9.css",
-    "main.js": "/static/js/main.c914d7d4.js",
-    "static/js/787.19b78939.chunk.js": "/static/js/787.19b78939.chunk.js",
-    "static/media/bg.svg": "/static/media/bg.a933d472f1695104a6b4.svg",
-    "static/media/logoWelbex.svg": "/static/media/logoWelbex.2e08d1bd108cb8b2aee116b1817d851e.svg",
-    "static/media/whatsapp.svg": "/static/media/whatsapp.11e9e34d9d7ff648b1a8b6a6716b574d.svg",
-    "static/media/viber.svg": "/static/media/viber.ccd4f99bb742b8e8f08cc58a65cbbe3a.svg",
-    "static/media/redBall.svg": "/static/media/redBall.d0944b6e50e80d4994d492177a6b660c.svg",
-    "index.html": "/index.html",
-    "static/media/purpleLight.svg": "/static/media/purpleLight.f56cd3688ba443c66ab7.svg",
-    "static/media/red_light.svg": "/static/media/red_light.3d1d5081f50e92e9bbc9e1f938225a53.svg",
-    "static/media/telegram.svg": "/static/media/telegram.fe699dc2f6090f2682544d2cdb1acd74.svg",
-    "main.63e0a7e9.css.map": "/static/css/main.63e0a7e9.css.map",
-    "main.c914d7d4.js.map": "/static/js/main.c914d7d4.js.map",
-    "787.19b78939.chunk.js.map": "/static/js/787.19b78939.chunk.js.map"
+    "main.css": "/amoCRM/static/css/main.0e4795ec.css",
+    "main.js": "/amoCRM/static/js/main.29d63e9a.js",
+    "static/js/787.19b78939.chunk.js": "/amoCRM/static/js/787.19b78939.chunk.js",
+    "static/media/bg.svg": "/amoCRM/static/media/bg.a933d472f1695104a6b4.svg",
+    "static/media/logoWelbex.svg": "/amoCRM/static/media/logoWelbex.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "static/media/whatsapp.svg": "/amoCRM/static/media/whatsapp.11e9e34d9d7ff648b1a8b6a6716b574d.svg",
+    "static/media/viber.svg": "/amoCRM/static/media/viber.ccd4f99bb742b8e8f08cc58a65cbbe3a.svg",
+    "static/media/redBall.svg": "/amoCRM/static/media/redBall.d0944b6e50e80d4994d492177a6b660c.svg",
+    "index.html": "/amoCRM/index.html",
+    "static/media/purpleLight.svg": "/amoCRM/static/media/purpleLight.f56cd3688ba443c66ab7.svg",
+    "static/media/red_light.svg": "/amoCRM/static/media/red_light.3d1d5081f50e92e9bbc9e1f938225a53.svg",
+    "static/media/telegram.svg": "/amoCRM/static/media/telegram.fe699dc2f6090f2682544d2cdb1acd74.svg",
+    "main.0e4795ec.css.map": "/amoCRM/static/css/main.0e4795ec.css.map",
+    "main.29d63e9a.js.map": "/amoCRM/static/js/main.29d63e9a.js.map",
+    "787.19b78939.chunk.js.map": "/amoCRM/static/js/787.19b78939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63e0a7e9.css",
-    "static/js/main.c914d7d4.js"
+    "static/css/main.0e4795ec.css",
+    "static/js/main.29d63e9a.js"
   ]
 }
